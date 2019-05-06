@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Pokedex from './Pokedex'
-import './Pokegame.css';
+
 
 class Pokegame extends Component {
   static defaultProps = {

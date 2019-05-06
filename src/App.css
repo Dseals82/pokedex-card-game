@@ -1,1 +1,10 @@
-
+.deal-hand {
+  padding: .5rem;
+  margin: 2rem;
+  margin-top: 1rem;
+  background-color: #115da8;
+  color: white;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 3px;
+}
